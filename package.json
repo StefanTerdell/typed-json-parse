@@ -1,0 +1,25 @@
+{
+  "name": "typed-json-parse",
+  "version": "0.1.0",
+  "types": "index.d.ts",
+  "scripts": {
+    "test": "tsc --noEmit tests.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StefanTerdell/typed-json-parse.git"
+  },
+  "keywords": [
+    "typescript",
+    "type",
+    "typed",
+    "json",
+    "parse",
+    "static",
+    "literal"
+  ],
+  "author": "Stefan Terdell",
+  "license": "GLWTPL",
+  "homepage": "https://stefan-tries-to-think.fly.dev/blog/typing-json-parse",
+  "description": "A JSON parser built in TS Types to statically type JSON.parse() output, for reasons"
+}
