@@ -1,5 +1,7 @@
 # Typed JSON Parse
 
+[Get it from npm](https://www.npmjs.com/package/typed-json-parse)
+
 ## Summary
 
 This package overrides the default `JSON.parse()` types with a [JSON parser built in TypeScript types](https://github.com/StefanTerdell/typed-json-parse/blob/main/index.d.ts), meaning if you put a valid string literal in, you will get the actual type it represents or a somewhat useful error message.
